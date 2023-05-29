@@ -59,7 +59,7 @@ namespace ApiTestProject.Controllers
             //Return list of all employees with new entry
             IList<Student> Student = new List<Student>();
             Student.Add(student);
-            
+            Console.WriteLine("Akash");
             return Student;
         }
     }
