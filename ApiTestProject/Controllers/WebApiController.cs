@@ -60,6 +60,7 @@ namespace ApiTestProject.Controllers
             IList<Student> Student = new List<Student>();
             Student.Add(student);
             Console.WriteLine("Akash");
+            Console.WriteLine("Mishra");
             return Student;
         }
     }
