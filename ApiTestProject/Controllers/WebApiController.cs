@@ -62,6 +62,7 @@ namespace ApiTestProject.Controllers
             Console.WriteLine("Akash");
             Console.WriteLine("Mishra");
             Console.WriteLine("New");
+            Console.WriteLine("New1");
             return Student;
         }
     }
